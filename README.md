@@ -7,8 +7,8 @@ This project aims to make college assignments more meaningful to students by avo
 ![Dashboard](https://github.com/SoumyadeepJana/MAM-1/blob/master/Picture1.png)
 
 ## Advantages of the System
-Promotes Mastery Based Learning and cognitive thinking 
-Discourages Plagiarism 
-Rewards well written and authentic assignments
-Forecast future complications that could arise in interrelated courses
-Presents a structured and trustworthy evaluation of a student’s development
+Promotes Mastery Based Learning and cognitive thinking</br>
+Discourages Plagiarism</br>   
+Rewards well written and authentic assignments</br>
+Forecast future complications that could arise in interrelated courses</br>
+Presents a structured and trustworthy evaluation of a student’s development</br>
