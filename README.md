@@ -8,7 +8,7 @@ This project aims to make college assignments more meaningful to students by avo
 
 ## Advantages of the System
 Promotes Mastery Based Learning and cognitive thinking</br>
-Discourages Plagiarism</br>   
+Discourages Plagiarism</br>
 Rewards well written and authentic assignments</br>
 Forecast future complications that could arise in interrelated courses</br>
 Presents a structured and trustworthy evaluation of a student’s development</br>
